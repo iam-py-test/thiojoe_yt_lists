@@ -32,7 +32,6 @@
 ||sweety-girls.online^$all
 ||crazygirls24.com^$all
 ||vaw.fyi^$all
-||vyn.fyi^$all
 ||vur.fyi^$all
 ||dadyapp.com^$all
 ||rbux88.com^$all
@@ -50,7 +49,6 @@
 ||youtube.ong^$all
 ||vum.fyi^$all
 ||voe.fyi^$all
-||vom.today^$all
 ||activedating-24.online^$all
 ||flix.bar^$all
 ||cheapkey.net^$all
@@ -184,7 +182,6 @@
 ||p.us.sy^$all
 ||xxlike.uno^$all
 ||likeex.uno^$all
-||topgirls.uno^$all
 ||caress.uno^$all
 ||luxgut.cyou^$all
 ||sleepfriendd.online^$all
@@ -295,7 +292,6 @@
 ||youtube.com/watch?v=dNo6JXH-7lA^$document
 ||youtube.com/watch?v=jhTTxdBKSyI^$document
 ||youtube.com/watch?v=eo_LqM3CfUs^$document
-||youtube.com/watch?v=9e4KR9qbbFk^$document
 ||youtube.com/watch?v=V9Z1QwRlyQw^$document
 ||youtube.com/watch?v=TEDGCiCcu-g^$document
 ||youtube.com/watch?v=U0yMPah-rBU^$document
@@ -326,9 +322,7 @@
 ||youtube.com/watch?v=H8ZH_mkfPUY^$document
 ||youtube.com/watch?v=tqmJ47IDtAs^$document
 ||youtube.com/watch?v=5LwKQYT3PsQ^$document
-||youtube.com/watch?v=R4NjXP9ZqDQ^$document
 ||youtube.com/watch?v=qZs47GwoLSo^$document
-||youtube.com/watch?v=tqmJ47IDtAs^$document
 ||youtube.com/watch?v=DWwxkP8gsUU^$document
 ||youtube.com/watch?v=iL0XlnE7_eU^$document
 ||youtube.com/watch?v=oFQPLZzGlPQ^$document
@@ -354,8 +348,6 @@
 ||youtube.com/watch?v=dTDkC0I79QA^$document
 ||youtube.com/watch?v=a_Jh22V2_EE^$document
 ||youtube.com/watch?v=QQPOc4FZoWg^$document
-||youtube.com/watch?v=LmpQzinAL2k^$document
-||youtube.com/watch?v=a_Jh22V2_EE^$document
 ||youtube.com/watch?v=WDNel-fXk3w^$document
 ||youtube.com/watch?v=BN6e2J3HYBQ^$document
 ||youtube.com/watch?v=MxnS1cX1CWc^$document
@@ -380,7 +372,6 @@
 ||youtube.com/watch?v=I3j-RDMsz68^$document
 ||youtube.com/watch?v=yBDBtIZNx3o^$document
 ||youtube.com/watch?v=aOrr-IJfI3s^$document
-||youtube.com/watch?v=0fyTPb-l-Ek^$document
 ||youtube.com/watch?v=eJO5HU_7_1w^$document
 ||youtube.com/watch?v=VQF2qCKd-6s^$document
 ||youtube.com/watch?v=z0GhCLuuMpU^$document
@@ -614,3 +605,17 @@
 ||youtube.com/watch?v=Zm0zBIXwgV4^$document
 ||youtube.com/watch?v=MnDt2-Fi2T0^$document
 ||youtube.com/watch?v=gxrBO0alACE^$document
+||youtube.com/watch?v=sskkIE5h9Ak^$document
+||youtube.com/watch?v=gFAddd2srsY^$document
+||youtube.com/watch?v=b9I_kkpVJlo^$document
+||youtube.com/watch?v=bJB5WyANAZo^$document
+||youtube.com/watch?v=ZjjL5usUgjc^$document
+||youtube.com/watch?v=FsBwtvYHa1E^$document
+||youtube.com/watch?v=Ltd3kkvHf6o^$document
+||youtube.com/watch?v=MBHqobfZieU^$document
+||youtube.com/watch?v=KaFZHt3SJp0^$document
+||youtube.com/watch?v=tK8AJkMkbTA^$document
+||youtube.com/watch?v=bN7HwYFw5Pw^$document
+||youtube.com/watch?v=YJ9JXqqJtlk^$document
+||youtube.com/watch?v=AvvaMJogXjc^$document
+||youtube.com/watch?v=Sw_rWD_3pcQ^$document
