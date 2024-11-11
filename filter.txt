@@ -630,3 +630,6 @@
 ||youtube.com/watch?v=C7HkRTTMjPk^$document
 ||youtube.com/watch?v=uINVC_r4e3s^$document
 ||youtube.com/watch?v=D8gbLnEbRsU^$document
+||youtube.com/watch?v=x727Oq9w_Ic^$document
+||youtube.com/watch?v=w04VLKPtw8c^$document
+||youtube.com/watch?v=LGiNr8clX_4^$document
