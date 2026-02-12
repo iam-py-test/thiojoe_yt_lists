@@ -21,7 +21,7 @@ for line in data_lines:
   if line == "" or line.startswith("#"):
     continue
   elif "." in line:
-    domain = line
+    domain = line.strip()
     filter_lines.append(f"||{domain}^$all")
   elif len(line) == 11:
     url_filter = f"||youtube.com/watch?v={line}^$document"
