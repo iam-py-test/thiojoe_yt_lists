@@ -1,6 +1,8 @@
 # thiojoe_yt_lists
-ThioJoe's YouTube spammer blocklist, converted into a filterlist for uBlock Origin and AdGuard.
-All entries are by from the original blocklist. No additional validation is performed.
+ThioJoe's YouTube spammer blocklist, converted into a filterlist for uBlock Origin and AdGuard.<br>
+All entries are by from the original blocklist. No additional validation is performed.<br>
+I am not affiliated with ThioJoe. The existance of this project should not be taken as an endorsement of ThioJoe.<br>
+False positives should be removed from the source. Conversion errors, invalid syntax, and other similar errors should be reported here.<br>
 
 The scripts in this repository are written by me (iam-py-test) and are copyleft.
 [The original data is under the MIT License](https://github.com/ThioJoe/YT-Spam-Lists), which has been reproduced below:
