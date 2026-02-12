@@ -214,9 +214,9 @@
 ||sexchat69.site^$all
 ||instaripper.com^$all
 ||awakencybers.com^$all
-||shadowspyhackers.com ^$all
+||shadowspyhackers.com^$all
 ||snapripper.net^$all
-||hackappspro.com ^$all
+||hackappspro.com^$all
 ||heluvv.ru^$all
 ||luxsliv.ru^$all
 ||ehes.ru^$all
@@ -648,3 +648,27 @@
 ||youtube.com/watch?v=wzgzW77CQZk^$document
 ||youtube.com/watch?v=dihje4EoEYU^$document
 ||youtube.com/watch?v=2eZpYfNLU2k^$document
+||youtube.com/watch?v=fwtM4oOk718^$document
+||youtube.com/watch?v=trr8aSnsGzA^$document
+||youtube.com/watch?v=RfiSyO5hIwo^$document
+||youtube.com/watch?v=WZG9f85mm2I^$document
+||youtube.com/watch?v=GNAFPfCDv2Q^$document
+||youtube.com/watch?v=cw09DCva0hU^$document
+||youtube.com/watch?v=8j1tpLXQMKI^$document
+||youtube.com/watch?v=yJpWYmQuntI^$document
+||youtube.com/watch?v=oxhPx3HzA0M^$document
+||youtube.com/watch?v=qvHS6T1GrXc^$document
+||youtube.com/watch?v=RWDRh2HFbz0^$document
+||youtube.com/watch?v=JNpdDB2b78g^$document
+||youtube.com/watch?v=xJ5LHAwyXms^$document
+||youtube.com/watch?v=ZktGSsA_Fnc^$document
+||youtube.com/watch?v=6RQq5tt7bZw^$document
+||youtube.com/watch?v=y6Bzc2hzUcQ^$document
+||youtube.com/watch?v=DP9q_gTRs4s^$document
+||youtube.com/watch?v=giM-dg1M6kU^$document
+||youtube.com/watch?v=PF4ppwW1O-g^$document
+||youtube.com/watch?v=WP3XUPpNoAQ^$document
+||youtube.com/watch?v=Fsv8uBJXTvM^$document
+||youtube.com/watch?v=Fjlolu8Q9wk^$document
+||youtube.com/watch?v=RCS6ZK9-SRQ^$document
+||youtube.com/watch?v=-nAYpWGjIQU^$document
